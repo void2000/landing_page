@@ -11,6 +11,7 @@
 |
 */
 
-Route::get('/', function () {
-    return view('master');
-});
+Route::get('/', 'backend\BackendController@master');
+
+//template
+Route::get('template/{id}', 'backend\BackendController@template');

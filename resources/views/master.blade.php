@@ -8,7 +8,7 @@
   <title>Plato Bootstrap Template - Index</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
-
+  <base href="{{asset('')}}">
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
@@ -243,10 +243,14 @@
           <div class="row" data-aos="fade-up" data-aos-delay="150">
             <div class="col-lg-12 d-flex justify-content-center">
               <ul id="portfolio-flters">
-                <li data-filter="*" class="filter-active">All</li>
-                <li data-filter=".filter-app">Sale</li>
-                <li data-filter=".filter-card">Company</li>
-                <li data-filter=".filter-web">Service</li>
+                <li><a href="template/1">Sale</a></li>
+                <li><a href="template/2">Company</a></li>
+                <li><a href="template/3">Service</a></li>
+                <li><a href="template/4">Electronic</a></li>
+                <li><a href="template/5">Travel</a></li>
+                <li><a href="template/6">Restaurant</a></li>
+                <li><a href="template/7">Hotel</a></li>
+                <li><a href="template/8">Spa</a></li>
               </ul>
             </div>
           </div>

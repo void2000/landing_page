@@ -169,7 +169,6 @@
       </section><!-- End Features Section -->
 
  
-
       <!-- ======= Services Section ======= -->
       <section id="services" class="services">
         <div class="container">
@@ -228,13 +227,16 @@
         </div>
       </section><!-- End Services Section -->
 
-      <!-- ======= Portfolio Section ======= -->
+
+
+
+      <!-- ======= Template web ======= -->
       <section id="portfolio" class="portfolio section-bg">
         <div class="container">
 
           <div class="section-title" data-aos="fade-down">
-            <span>Portfolio</span>
-            <h2>Portfolio</h2>
+            <span>Template</span>
+            <h2>Template</h2>
             <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
           </div>
 
@@ -242,9 +244,9 @@
             <div class="col-lg-12 d-flex justify-content-center">
               <ul id="portfolio-flters">
                 <li data-filter="*" class="filter-active">All</li>
-                <li data-filter=".filter-app">App</li>
-                <li data-filter=".filter-card">Card</li>
-                <li data-filter=".filter-web">Web</li>
+                <li data-filter=".filter-app">Sale</li>
+                <li data-filter=".filter-card">Company</li>
+                <li data-filter=".filter-web">Service</li>
               </ul>
             </div>
           </div>

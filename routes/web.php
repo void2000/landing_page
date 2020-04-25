@@ -15,3 +15,6 @@ Route::get('/', 'backend\BackendController@master');
 
 //template
 Route::get('template/{id}', 'backend\BackendController@template');
+
+// add template
+Route::get('add-template', 'backend\BackendController@add_template');
